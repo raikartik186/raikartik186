@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with MEAN stack<br>🌱 I’m currently Exploring my development skills as a Full stack developer<br>🤔 Working as a Freelancer<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/raikartik186/<br>😄 Pronouns: He/Him
+🔭 I’m currently working with MEAN stack<br>🌱 I’m currently Exploring my development skills as a Full stack developer<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/raikartik186/
 
 
 ## 🌐 Socials:
